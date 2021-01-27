@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  margin-top: 60px;
+}
+
+h1 {
+  font-size: 32px;
+  font-family: cursive;
+  color: rgb(38, 24, 114);
+}
+
+input{
+  padding: 7px;
+  
+}
+
+button{
+  margin-top: 12px;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+button:hover{
+  color: white;
+  background-color: black ;
+  transition: 0.5s;
+}
+
+.user{
+  color: rgb(121, 20, 20);
+  font-family: monospace;
+}
